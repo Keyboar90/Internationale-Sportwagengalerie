@@ -1,3 +1,3 @@
 Car website:
 
-Website: http://www.internationalesportwagengalerie.de/
+Link: http://www.internationalesportwagengalerie.de/
